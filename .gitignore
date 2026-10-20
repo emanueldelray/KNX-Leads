@@ -1,0 +1,4 @@
+# Lead data never goes into this repository; load it on each device with "Load leads file".
+leads.json
+*.csv
+*.xlsx
